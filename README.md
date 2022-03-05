@@ -14,7 +14,7 @@ That's simple! Just click the "Deploy with Workers" button below and then add
 a new secret in the GitHub repo called `DISCORD_WEBHOOK`. Point this to your channels webhook and done!\
 The Worker will now send new incidents and updates :)
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/WalshyDev/cf-status-worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Atomoyo/cf-status-worker)
 
 ## Example
 ### New Incident
